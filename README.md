@@ -33,3 +33,8 @@ Hello! I am Nikhil Pathak, a frontend developer with a passion for crafting seam
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/nikpathak9/Video-Caption" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nikpathak9&repo=Video-Caption&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/nikpathak9/Image_Lighthouse" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nikpathak9&repo=Image_Lighthouse&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/nikpathak9/Social-Media-Sentiment" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nikpathak9&repo=Social-Media-Sentiment&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a><a href="https://github.com/nikpathak9/Goofy-Tube-Movies" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nikpathak9&repo=Goofy-Tube-Movies&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
