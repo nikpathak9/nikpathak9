@@ -28,7 +28,7 @@ Hello! I am Nikhil Pathak, a frontend developer with a passion for crafting seam
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/nikpathak9/Calendar-Event-Scheduler-App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nikpathak9&repo=Calendar-Event-Scheduler-App&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/nikpathak9/Scratch_MIT-App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nikpathak9&repo=Scratch_MIT-App&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/nikpathak9/Calendar-Event-Scheduler-App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nikpathak9&repo=Calendar-Event-Scheduler-App&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/nikpathak9/Scratch_MIT-App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nikpathak9&repo=Scratch_MIT-App&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 <br /><br /><br /><br /><br />
 
