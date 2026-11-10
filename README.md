@@ -81,3 +81,4 @@ I craft seamless, responsive, and user-friendly web experiences.
 [GitHub](https://github.com/nikpathak9) · [LinkedIn](https://www.linkedin.com/in/nikhil-pathak-597708196/) · [Portfolio](https://nikhilpathak.netlify.app/) · [Email](mailto:nikpathak099@gmail.com)
 
 </div>
+
