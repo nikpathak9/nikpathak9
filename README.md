@@ -44,33 +44,20 @@ I craft seamless, responsive, and user-friendly web experiences.
 
 ## Featured Projects
 
-<div align="center">
-  <a href="https://github.com/nikpathak9/Calendar-Event-Scheduler-App">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nikpathak9&repo=Calendar-Event-Scheduler-App&theme=tokyonight&hide_border=true" alt="Calendar Event Scheduler App" />
-  </a>
-  <a href="https://github.com/nikpathak9/Scratch_MIT-App">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nikpathak9&repo=Scratch_MIT-App&theme=tokyonight&hide_border=true" alt="Scratch MIT App" />
-  </a>
-  <a href="https://github.com/nikpathak9/Video-Caption">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nikpathak9&repo=Video-Caption&theme=tokyonight&hide_border=true" alt="Video Caption" />
-  </a>
-  <a href="https://github.com/nikpathak9/Image_Lighthouse">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nikpathak9&repo=Image_Lighthouse&theme=tokyonight&hide_border=true" alt="Image Lighthouse" />
-  </a>
-  <a href="https://github.com/nikpathak9/Social-Media-Sentiment">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nikpathak9&repo=Social-Media-Sentiment&theme=tokyonight&hide_border=true" alt="Social Media Sentiment" />
-  </a>
-  <a href="https://github.com/nikpathak9/Goofy-Tube-Movies">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nikpathak9&repo=Goofy-Tube-Movies&theme=tokyonight&hide_border=true" alt="Goofy Tube Movies" />
-  </a>
-</div>
+| Project | Repository |
+| --- | --- |
+| 📅 **Calendar Event Scheduler App** | [View project →](https://github.com/nikpathak9/Calendar-Event-Scheduler-App) |
+| 🎨 **Scratch MIT App** | [View project →](https://github.com/nikpathak9/Scratch_MIT-App) |
+| 🎬 **Video Caption** | [View project →](https://github.com/nikpathak9/Video-Caption) |
+| 🧩 **Component Atlas** | [View project →](https://github.com/nikpathak9/Component-Atlas) |
+| 📊 **Social Media Sentiment** | [View project →](https://github.com/nikpathak9/Social-Media-Sentiment) |
+| 🍿 **Goofy Tube Movies** | [View project →](https://github.com/nikpathak9/Goofy-Tube-Movies) |
 
 ## GitHub Overview
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nikpathak9&show_icons=true&theme=tokyonight&hide_border=true" alt="Nikhil's GitHub statistics" />
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikpathak9&layout=compact&theme=tokyonight&hide_border=true" alt="Nikhil's most used languages" />
-</div>
+Explore my code, projects, and contributions on my
+[GitHub profile](https://github.com/nikpathak9), or browse
+[all of my repositories](https://github.com/nikpathak9?tab=repositories).
 
 ---
 
@@ -81,4 +68,3 @@ I craft seamless, responsive, and user-friendly web experiences.
 [GitHub](https://github.com/nikpathak9) · [LinkedIn](https://www.linkedin.com/in/nikhil-pathak-597708196/) · [Portfolio](https://nikhilpathak.netlify.app/) · [Email](mailto:nikpathak099@gmail.com)
 
 </div>
-
