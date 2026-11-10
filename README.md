@@ -7,7 +7,7 @@ Frontend Developer
 Hello! I am Nikhil Pathak, a frontend developer with a passion for crafting seamless user experiences. With expertise in React, Redux, HTML, CSS, JavaScript, TypeScript.
 
 * 🌍  I'm based in Bengaluru, Karnataka
-* 🖥️  See my portfolio at [Nikhil's Portfolio](http://https://nikpathak9.github.io/nikhil_portfolio/)
+* 🖥️  See my portfolio at [Nikhil's Portfolio](https://nikhilpathak.netlify.app/)
 * ✉️  You can contact me at [nikpathak099@gmail.com](mailto:nikpathak099@gmail.com)
 
 ### Skills
